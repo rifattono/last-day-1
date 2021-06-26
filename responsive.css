@@ -53,6 +53,11 @@
         top: -80px;
         left: 40.5%;
     }
+	 .col-xl-5.mt-5.pt-5 {
+    text-align: center;
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+    }
 }
 @media all and (max-width:760px) {
     .banner h1{
@@ -81,6 +86,11 @@
     .team-1 img {
       
         left: 37.5%;
+    }
+	 .col-xl-5.mt-5.pt-5 {
+    text-align: center;
+    padding-top: 0 !important;
+    margin-top: 0 !important;
     }
     
 }
